@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learing Full Stack devlopment and looking a for a entry level devloper job.<br>👯 I’m looking to collaborate on devlopers who have same ideology like me.<br>💬 Ask me about doubts on javascript,react,node and mongodb.
+🌱 With one year of Full Stack development experience, I'm eager to take on new challenges as a developer.<br>👯 I’m looking to collaborate on devlopers who have same ideology like me.<br>💬 Ask me about doubts on javascript,react,node and mongodb.
 
 
 # 💻 Tech Stack:
